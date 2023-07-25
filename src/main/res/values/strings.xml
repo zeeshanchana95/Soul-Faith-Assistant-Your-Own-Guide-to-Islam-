@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soul Faith Assistant</string>
+
+    <array name="tasbeeh_types">[
+        "Allahuakbar",
+        "Alhamdulillah",
+        "Subhanallah",
+        "Ya Hayyu Ya Qayyum",
+        "Astagfirullah",
+        "La IIaha Illalalah Muhammadur rasullallah", ]
+    </array>
+</resources>
