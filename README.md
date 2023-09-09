@@ -22,19 +22,19 @@ an android application—that serves as a virtual assistant and offers a variety
 
 <span><img src="./screenshots/Screenshot_20230723-090906.jpg" width="330" height="700"></span>
 <span><img src="./screenshots/Screenshot_20230723-090926.jpg" width="330" height="700"></span>
-<span><img src="./screenshots/Screenshot_20230723-090427.jpg" width="330" height="700"></span><br>
+<span><img src="./screenshots/Screenshot_20230723-090427.jpg" width="330" height="700"></span>
 
 <span><img src="./screenshots/Screenshot_20230723-090618.jpg" width="330" height="700"></span>
 <span><img src="./screenshots/Screenshot_20230723-090432.jpg" width="330" height="700"></span>
-<span><img src="./screenshots/Screenshot_20230723-090935.jpg" width="330" height="700"></span><br>
+<span><img src="./screenshots/Screenshot_20230723-090935.jpg" width="330" height="700"></span>
 
 <span><img src="./screenshots/Screenshot_20230723-090315.jpg" width="330" height="700"></span>
 <span><img src="./screenshots/Screenshot_20230723-090531.jpg" width="330" height="700"></span>
-<span><img src="./screenshots/Screenshot_20230723-090455.jpg" width="330" height="700"></span><br>
+<span><img src="./screenshots/Screenshot_20230723-090455.jpg" width="330" height="700"></span>
 
 <span><img src="./screenshots/Screenshot_20230723-090558.jpg" width="330" height="700"></span>
 <span><img src="./screenshots/Screenshot_20230723-090518.jpg" width="330" height="700"></span>
-<span><img src="./screenshots/Screenshot_20230723-090630.jpg" width="330" height="700"></span><br>
+<span><img src="./screenshots/Screenshot_20230723-090630.jpg" width="330" height="700"></span>
 
 <span><img src="./screenshots/Screenshot_20230723-090537.jpg" width="330" height="700"></span><br>
 
